@@ -1,0 +1,2 @@
+# PG-Dissertation_Evaluation-of-Classical-and-Contemporary-Classification-Methods
+Classification techniques are statistical methods specifically designed to predict categorical outcomes by assigning observations to predefined classes based on input features. Model performance is evaluated using confusion matrices and accuracy metrics, with all data analysis performed using R software to ensure precise computations.
